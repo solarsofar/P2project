@@ -4,10 +4,10 @@
 	Period: 2
 	Date: December 4, 2018
 */
-  <style>
+
 body 
 {
-background-color: #B8F2F4
+background-color: #EADEDB;
 }
 h1 
 {
@@ -30,14 +30,10 @@ p
 font-family:Times New Roman;
 font-size:16px;
 }
+img{
+  float:right;
+  display: block;
+  margin-left: auto;
+  
+}
 
-
-
-
-
-
-
-
-
-
-  </style>
