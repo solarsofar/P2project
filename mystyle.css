@@ -36,7 +36,7 @@ p
 		font-size:16px;
 }
 
-img	{
+img.benin{
   		float:right;
   		display: block;
   		margin-left: auto;
@@ -54,8 +54,10 @@ hr	{
 		border:solid black;
  		border-width: 1px;
 }
+a.game {
+   font-weight: bold;
+}
+p.placeholder{
+font-family:Helvetica;
 
-a	
-	{
-		border:solid black;
 }
