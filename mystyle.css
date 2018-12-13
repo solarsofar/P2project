@@ -36,7 +36,7 @@ p
 		font-size:16px;
 }
 
-img.benin{
+img.right{
   		float:right;
   		display: block;
   		margin-left: auto;
@@ -61,20 +61,15 @@ p.placeholder{
 font-family:Helvetica;
 }
 
-img.plat{ 	float:left;
-  		display: block;
-  		margin-left: auto;
-
-}
-
 img.CS{
 width: 200px;
 height:500px;
 
 }
-
-
-
+img {
+   padding:1px;
+   border:1px solid #021a40;
+}
 
 
 
